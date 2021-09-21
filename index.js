@@ -1,3 +1,4 @@
+/*
 //let a = 1; //Number
 //let b = "hello world"; //string
 
@@ -21,12 +22,12 @@ console.log(exampleArray2);
 
 
 
+let a = "HELLO WORLD";
+console.log("to lower case:",a.toLowerCase())
+
+*/
+
+//let substrExample = "hello world";
+//console.log(substrExample.substring(-5));
 
 
-
-
-
-
-
-
-9
